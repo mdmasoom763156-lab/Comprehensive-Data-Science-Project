@@ -1,39 +1,35 @@
-# MD MASOOM
-
-**Junior Data Analyst / Data Science Intern**  
-Bihar, India | Email: your.email@example.com | LinkedIn: linkedin.com/in/your-profile | GitHub: github.com/your-username
-
-## Professional summary
-
-Diploma in Computer Science Engineering with AIML specialization and hands-on experience completing a 12-week data science journey. Built reproducible Python projects covering statistics, business analysis, supervised learning, feature engineering, clustering, model tuning, interpretation, testing, and basic deployment. Comfortable translating model results into clear business recommendations.
-
-## Technical skills
-
-- **Languages and data:** Python, SQL, pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn, business storytelling
-- **Machine learning:** scikit-learn, regression, classification, clustering, feature engineering, cross-validation, GridSearchCV
-- **Deployment and workflow:** Streamlit, FastAPI, Git, GitHub, Jupyter Notebook, VS Code, joblib, Docker basics
-- **Professional:** documentation, model interpretation, testing, business recommendations
-
-## Featured project - Customer Churn Prediction & Retention Strategy
-
-- Built an end-to-end churn solution on 500 customer records, from validation and EDA through a deployed prediction interface.
-- Engineered eight features and created a leakage-safe scikit-learn preprocessing and Random Forest pipeline.
-- Tuned hyperparameters with five-fold stratified cross-validation and evaluated using recall, F1, ROC-AUC, PR-AUC, and confusion matrix.
-- Persisted the model with version metadata; created FastAPI and Streamlit demonstrations, Docker setup, automated tests, and business-impact scenarios.
-- Communicated findings through technical documentation, a business report, and a 14-slide presentation.
-
-## Additional projects
-
-- **Customer Segmentation & Prediction:** K-Means, hierarchical clustering, DBSCAN, and segment-specific tuned Random Forest models.
-- **House Price Prediction:** Linear, polynomial, decision-tree, and Random Forest regression with multiple evaluation metrics.
-- **Statistical Business Analysis:** descriptive statistics, hypothesis testing, confidence intervals, correlation, and regression.
-
-## Education
-
-**Diploma in Computer Science Engineering (AIML specialization)**  
+MD MASOOM RAZA
+JUNIOR DATA ANALYST | DATA SCIENCE INTERN
+New Delhi, India | +91 7631568205 | mdmasoom763156@gmail.com
+PROFESSIONAL SUMMARY
+Entry-level Data Analyst and Data Science professional with a Diploma in Computer Science Engineering (AI & ML) and 
+hands-on experience in data cleaning, exploratory analysis, statistical testing, machine learning, dashboarding, and 
+basic model deployment. Skilled in Python, SQL, Excel, Power BI, and scikit-learn, with a focus on translating data into 
+practical business insights.
+TECHNICAL SKILLS
+Programming & Data: Python, SQL, pandas, NumPy
+Machine Learning: scikit-learn, regression, classification, clustering, model tuning, cross-validation
+Analytics & Visualization: MS Excel, Power BI, Matplotlib, Seaborn, statistical analysis
+Tools & Deployment: Jupyter Notebook, Git/GitHub, Streamlit, FastAPI, joblib (basic)
+PROJECTS
+Customer Churn Prediction & Retention Strategy | Python, scikit-learn, Streamlit, FastAPI
+Built an end-to-end churn solution on 500 customer records, engineered eight features, and tuned a Random Forest with 
+stratified cross-validation. Evaluated precision, recall, F1-score, ROC-AUC, and PR-AUC; saved the trained pipeline and 
+created basic prediction demos with business recommendations.
+Customer Segmentation & Churn Prediction | K-Means, Hierarchical Clustering, DBSCAN, Random Forest
+Compared three clustering approaches and created actionable customer profiles. Trained independent Random Forest 
+churn models for each deployment segment using GridSearchCV and documented targeted retention actions for each 
+customer group.
+House Price Prediction | Python, pandas, scikit-learn, Matplotlib
+Prepared housing data and compared linear, polynomial, decision-tree, and random-forest regression models using 
+train-test splits and cross-validation. Measured MAE, RMSE, and R-squared and visualized actual versus predicted 
+prices.
+Motorola Mobile Sales Analysis | MS Excel, Power BI
+Cleaned and transformed sales data, then built interactive dashboards to track revenue, sales performance, product 
+trends, and regional insights for data-driven decision-making.
+EDUCATION
+Diploma in Computer Science Engineering (AI & ML) | 2023 - 2026
 Galgotias University
-
-## Notes before applying
-
-Replace placeholder contact links, add graduation dates/marks if helpful, and keep the final resume to one page. Do not claim a deployed public URL until the app is actually online.
+STRENGTHS & LANGUAGES
+Strengths: Analytical thinking, problem-solving, quick learning, teamwork, time management
+Languages: Hindi, English, Indonesian (basic)
