@@ -23,7 +23,7 @@
 
 ## Networking message
 
-Hello [Name], I am a Diploma CSE (AIML) graduate building a portfolio in Python, SQL, analytics, and machine learning. I appreciated your work in [specific area]. I recently completed an end-to-end churn capstone and would value one suggestion on skills to prioritize for entry-level data roles. Thank you.
+Hello Md Masoom Raza, I am a Diploma CSE (AIML) graduate building a portfolio in Python, SQL, analytics, and machine learning. I appreciated your work in Data Analyst. I recently completed an end-to-end churn capstone and would value one suggestion on skills to prioritize for entry-level data roles. Thank you.
 
 ## Current career context
 
