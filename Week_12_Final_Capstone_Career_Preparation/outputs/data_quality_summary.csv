@@ -1,0 +1,10 @@
+Column,Data_Type,Missing,Unique
+CustomerID,object,0,500
+Tenure,int64,0,71
+MonthlyCharges,int64,0,166
+TotalCharges,int64,0,490
+Contract,object,0,3
+PaymentMethod,object,0,3
+PaperlessBilling,object,0,2
+SeniorCitizen,int64,0,2
+Churn,int64,0,2

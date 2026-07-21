@@ -1,0 +1,60 @@
+{
+  "project": "Customer Churn Prediction and Retention Strategy",
+  "trained_at_utc": "2026-07-21T15:06:22.453911+00:00",
+  "dataset_rows": 500,
+  "dataset_columns": 9,
+  "dataset_sha256": "cce0f1b7d01e5e6b0af23cbf8cea5e52163b108eb2cd87fcd230d7c4532c9fdf",
+  "train_rows": 375,
+  "test_rows": 125,
+  "target_rate": 0.106,
+  "selected_model": "Tuned Random Forest",
+  "decision_threshold": 0.38,
+  "best_params": {
+    "model__max_depth": 6,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 2,
+    "model__n_estimators": 300
+  },
+  "cross_validation_best_roc_auc": 0.9936567164179104,
+  "test_metrics": {
+    "Threshold": 0.38,
+    "Accuracy": 0.968,
+    "Balanced_Accuracy": 0.9821428571428572,
+    "Precision": 0.7647058823529411,
+    "Recall": 1.0,
+    "F1": 0.8666666666666667,
+    "ROC_AUC": 1.0,
+    "PR_AUC": 0.9999999999999998,
+    "Specificity": 0.9642857142857143,
+    "TN": 108,
+    "FP": 4,
+    "FN": 0,
+    "TP": 13
+  },
+  "success_targets": {
+    "Recall": 0.8,
+    "ROC_AUC": 0.85,
+    "F1": 0.65,
+    "Precision": 0.5
+  },
+  "success_targets_met": {
+    "Recall": true,
+    "ROC_AUC": true,
+    "F1": true,
+    "Precision": true
+  },
+  "versions": {
+    "python": "3.12.13",
+    "pandas": "2.3.3",
+    "numpy": "2.5.1",
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  },
+  "limitations": [
+    "Small 500-row educational dataset.",
+    "All observed churn cases have tenure of 12 months or less, creating an unusually strong single-pattern signal.",
+    "No live production labels or causal retention experiment.",
+    "Financial impact is an illustrative scenario, not realized revenue.",
+    "Monitor feature drift, subgroup performance, and calibration before production use."
+  ]
+}

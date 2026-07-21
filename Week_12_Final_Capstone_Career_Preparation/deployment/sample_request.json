@@ -1,0 +1,9 @@
+{
+  "Tenure": 8,
+  "MonthlyCharges": 180,
+  "TotalCharges": 1400,
+  "Contract": "Month-to-month",
+  "PaymentMethod": "Electronic Check",
+  "PaperlessBilling": "Yes",
+  "SeniorCitizen": 1
+}

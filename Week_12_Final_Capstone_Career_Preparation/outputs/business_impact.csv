@@ -1,0 +1,3 @@
+Scenario,Customers_Contacted,Estimated_Churners_Reached,Estimated_Net_Value_INR,Assumption
+Blanket campaign,500,52,-381600.0,"35% save rate; INR 12,000 retained value; INR 1,200 offer cost"
+Model-targeted campaign,68,52,136800.0,"35% save rate; INR 12,000 retained value; INR 1,200 offer cost"

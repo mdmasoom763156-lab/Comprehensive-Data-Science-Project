@@ -1,0 +1,10 @@
+Column,Type,Role,Description,Allowed_or_Example
+CustomerID,string,Identifier,Unique customer reference,C00001
+Tenure,integer,Feature,Months as a customer,0 to 120
+MonthlyCharges,number,Feature,Current monthly charge,Non-negative
+TotalCharges,number,Feature,Cumulative charges,Non-negative
+Contract,string,Feature,Contract duration,Month-to-month|One year|Two year
+PaymentMethod,string,Feature,Payment channel,Electronic Check|Credit Card|Bank Transfer
+PaperlessBilling,string,Feature,Paperless billing flag,Yes|No
+SeniorCitizen,integer,Feature,Senior citizen indicator,0|1
+Churn,integer,Target,Customer left the service,0|1

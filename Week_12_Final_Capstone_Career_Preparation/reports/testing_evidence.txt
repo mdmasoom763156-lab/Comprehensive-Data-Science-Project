@@ -1,0 +1,32 @@
+WEEK 12 FINAL CAPSTONE - TESTING EVIDENCE
+Validated: 2026-07-21
+
+Automated test suite
+Command: python -W ignore -m pytest tests -q
+Result: 9 passed in 1.21s
+
+FastAPI smoke test
+- GET /health -> HTTP 200, status=healthy
+- POST /predict -> HTTP 200
+- Sample result: probability=0.9175, prediction=1, risk=High,
+  threshold=0.38, action="Priority retention call with a targeted offer."
+
+Streamlit smoke test
+- App title loaded: Customer Churn Risk Studio
+- Unhandled exceptions: 0
+- Submit buttons found: 1
+- Interactive inputs found: 7
+
+Static validation
+- Python modules compiled successfully: src/, deployment/, tests/
+- Notebook: 10/10 code cells executed; 0 error outputs
+- Presentation: 14 slides; overflow test passed
+- Technical PDF: 8 A4 pages; visually inspected
+- Business PDF: 4 A4 pages; visually inspected
+- Resume PDF: 1 A4 page; visually inspected
+
+Scope note
+The project uses a small educational dataset. All 53 observed churn cases have
+tenure of 12 months or less, so the unusually strong holdout ranking should not
+be treated as evidence of production performance. This limitation is disclosed
+throughout the README, reports, presentation, and model card.
