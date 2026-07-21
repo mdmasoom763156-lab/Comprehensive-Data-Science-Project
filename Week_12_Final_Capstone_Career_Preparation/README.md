@@ -161,6 +161,3 @@ Replace `YOUR_USERNAME`, add your contact links, and never commit secrets. A pub
 - U.S. BLS Data Scientists outlook: https://www.bls.gov/ooh/math/data-scientists.htm
 - World Economic Forum, Future of Jobs Report 2025: https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 
-## Responsible-use note
-
-This is an educational portfolio project. Predictions should support human review and experimentation, not automated service denial or other high-impact decisions.
